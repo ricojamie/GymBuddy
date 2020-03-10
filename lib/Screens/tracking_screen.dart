@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:gym/constants.dart';
 import 'package:gym/Components/sliding_up_panel.dart';
 
 class TrackingScreen extends StatefulWidget {

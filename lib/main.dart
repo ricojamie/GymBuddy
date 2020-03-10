@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gym/dashboard.dart';
+import 'Screens/dashboard.dart';
 import 'package:flutter_snake_navigationbar/flutter_snake_navigationbar.dart';
-import 'constants.dart';
-import 'tracking_screen.dart';
+import 'Screens/tracking_screen.dart';
 
 void main() => runApp(Gym());
 

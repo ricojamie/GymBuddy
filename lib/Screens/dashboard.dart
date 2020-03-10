@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
-import 'weight_graph.dart';
-import 'exercise_breakdown_chart.dart';
+import 'package:gym/Components/exercise_breakdown_chart.dart';
+import '../constants.dart';
+import '../Components/weight_graph.dart';
 
 class DashboardScreen extends StatefulWidget {
   static String id = 'dashboard_screen';
